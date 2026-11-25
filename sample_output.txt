@@ -1,0 +1,24 @@
+===== SMART EXPENSE TRACKER =====
+
+1. Add Expense
+2. View All Expenses
+3. Edit Expense
+4. Delete Expense
+5. Category-wise Summary
+6. Monthly Expense Report
+7. Set Monthly Budget
+8. View Budget Status
+9. Show Expense Chart
+10. Export Expense Report
+11. Exit
+
+Example expense:
+Date: 2026-11-25
+Category: Food
+Description: Lunch
+Amount: 120.00
+
+Example category summary:
+Food            ₹120.00
+Transport       ₹80.00
+Total: ₹200.00

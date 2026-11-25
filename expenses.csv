@@ -1,0 +1,14 @@
+id,date,category,description,amount
+1,2026-11-25,Food,Pizza,200.00
+2,2026-11-25,Food,Lunch,120.00
+3,2026-11-25,Transport,Bus fare,40.00
+4,2026-11-25,Shopping,Notebook,150.00
+5,2026-11-25,Education,Python course,500.00
+6,2026-11-25,Food,Snacks,80.00
+7,2026-11-25,Entertainment,Movie,250.00
+8,2026-11-25,Bills,Internet Bill,600.00
+9,2026-11-25,Health,Medicine,100.00
+10,2026-11-25,Food,Dinner,200.00
+11,2026-11-25,Other,College project,300.00
+12,2026-11-25,Food,1,1.00
+13,2026-11-25,Food,1,1220.00
